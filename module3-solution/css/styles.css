@@ -1,0 +1,35 @@
+
+/* HEADER */
+#company-name {
+	padding-bottom: 40px;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+#header-nav {
+	background-color: #ffcc33;
+}
+
+#nav-list a {
+	font-size: 1.5em;
+	border-bottom: 1px solid #f2f2f2;
+}
+#nav-list a:hover {
+	background: #d9d9d9;
+}
+/* END HEADER */
+
+/* HOME PAGE */
+section.row {
+	background-color: #cccccc;
+}
+
+h4.menu-item-title {
+	text-align: center;
+}	
+
+#menu-title {
+	padding-bottom: 20px;
+}
+
+/* END HOME PAGE */
